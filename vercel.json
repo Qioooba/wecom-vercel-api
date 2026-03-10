@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/WW_verify_usnED0E2gQ05Zf5t.txt",
+      "dest": "/WW_verify_usnED0E2gQ05Zf5t.txt"
+    },
+    {
+      "src": "/api/wechat/callback",
+      "dest": "/api/wechat/callback.js"
+    }
+  ]
+}
